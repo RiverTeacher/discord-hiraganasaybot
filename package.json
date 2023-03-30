@@ -1,0 +1,9 @@
+{
+  "name": "discord-hiragana-hatugen-bot",
+  "version": "1.0.0",
+  "description": "Discord BOT",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
